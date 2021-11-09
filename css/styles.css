@@ -46,6 +46,11 @@ position: absolute;
     
 }
 
+
+#mountain{
+width: -webkit-fill-available;
+}
+
 #sub-title-heading{
     font-family: 'Zen Kurenaido', sans-serif;
     font-size: 2.5rem;
