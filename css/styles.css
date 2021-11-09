@@ -34,16 +34,15 @@ hr{
 }
 
 .cloud-2{
-    top: 200px;
+        top: 34%;
     position: absolute;
-    left: 100px;    
+    left: 10%;  
 }
 
 .cloud-1{
-    right: 100px;
-    top: 50px;
-
-    position: absolute;
+right: 20%;
+top: 10%;
+position: absolute;
     
 }
 
